@@ -1,5 +1,3 @@
-# World-Life-Expectancy-SQL-Exploratory-Data-Analysis
-
 # 🌍 World Life Expectancy – SQL Exploratory Analysis
 
 ## 📌 Overview
